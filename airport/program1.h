@@ -1,5 +1,4 @@
-//Ammar Mohammad Khan
-//CS 163 Program 1, Header File
+//Ammar Khan
 //This file contains the classes for the ADTs, and
 //structs for the underlying data.Thie first ADT is a
 //LLL for travel times for a flight, while the second

@@ -1,5 +1,4 @@
-//Ammar Mohamamd Khan
-//CS 163 Program 1
+//Ammar Khan
 //This is the main file
 //for the program. It handles 
 //ineraction between user and ADT. 

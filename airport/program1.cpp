@@ -1,5 +1,4 @@
-//Ammar Mohammad Khan
-//CS 163 Program 1
+//Ammar Khan
 //Function implementation file. 
 //This file contains all the implementations 
 //of the functions for the ADT.
