@@ -1,0 +1,5 @@
+ADTs:use 1/0s for error report:1:25:0
+BSTs:insert in random order:10:95:1
+Recursion:remember the base case:5:50:1
+Algorithms:find more efficient algorithms:11:115:0
+Big O:used to determine efficiency:6:70:0
